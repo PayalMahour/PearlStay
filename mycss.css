@@ -1,0 +1,182 @@
+h1,h2,h3{
+
+width:100%; 
+padding-top:30px;
+color:black; 
+text-align:center;
+} 
+
+.abc{
+height:400px;
+width:100%;
+color:white;
+background-image:url('images/3.jpeg');
+}
+
+#pqr{
+height:400px;
+width:100%;
+color:white;
+background-image:url('images/3.jpeg');
+}
+#header{
+	width:100%;
+	height:100px;
+	background-color:green;
+	
+} 
+.bar{
+	width:200px;
+}
+#left{
+	float:left;
+	height:100px;
+	
+}
+#right{
+float:right;	
+height:100px;
+}
+#center{
+	margin-left:200px;
+	margin-right:200px;
+}
+#mytext{
+	height:100px;
+	width:100%;
+	
+}
+
+#menu{
+	
+	height:40px;
+	width:100%;
+}
+ul{
+	list-style:none;
+	margin-top:0px;
+	padding:0px;
+	
+	
+}
+ ul li{
+	width:175px;
+	height:40px;
+	float:left;
+	display:inline;
+	padding-left:80px;
+	display:block;
+	margin-right:2px;
+	opacity:0.7px;
+	font-size:20px;
+	
+}
+ul li a{
+	text-decoration:none;
+	color:red;
+}
+ul li a:hover{
+	background-color:black;
+}
+ul li ul li{
+	display:none;
+}
+ul li:hover ul li{
+	display:block;
+}
+
+#menu2{
+	
+	height:100px;
+	width:100%;
+	background-image:url('images/bk.jpg');
+    background-repeat:repeat-x;	
+}
+.main{
+	width:100%;
+	height:400px;
+}
+#content{
+	float:left;
+	width:80%;
+}
+
+#review{
+	float:right;
+	width:20%;
+}
+#footer{
+	height:100px;
+	width:100%;
+}
+
+.service{
+	width:100%;
+	height:auto;
+}
+
+#review1{
+	float:left;
+	width:20%;
+}
+
+#content1{
+	float:right;
+	width:80%;
+}
+
+#contact{
+	width:80%; 
+	height:400px;  
+	margin-left:200px; 
+	margin-right:200px;
+} 
+#p3{
+	width:200px; 
+	height:400px;  
+	float:right;
+	
+}
+#wecover{
+	
+	width:100%;
+	height:200px;
+}
+#weprovide{
+
+	width:100%;
+	height:200px;
+}
+
+.box{
+	height:240px; 
+	width:20%;
+	margin-top:20px;
+	margin-left:50px; 
+	float:left;
+	font-size:20px;
+	border-radius:20px;
+}
+
+#block1{
+	background-color:green;
+	box-shadow:20px 15px 5px 10px #32cd32; 
+}
+#block2{
+	background-color:darkblue;
+	box-shadow:20px 15px 5px 10px #6495ed;
+}
+#block3{
+	background-color:deeppink;
+	box-shadow:20px 15px 5px 10px #ffb6c1;
+}
+#block4{
+	background-color:red;
+	box-shadow:20px 15px 5px 10px #ff6347;
+}
+
+h5{
+	padding:20px 20px 20px 60px;
+	text-shadow:5px 2px 2px #f0f8ff;
+	font-size:35px;
+}
